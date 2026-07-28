@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
