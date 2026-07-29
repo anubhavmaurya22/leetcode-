@@ -10,10 +10,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavmaurya22/leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavmaurya22/leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -35,4 +37,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
