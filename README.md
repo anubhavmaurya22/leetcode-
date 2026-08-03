@@ -7,6 +7,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavmaurya22/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anubhavmaurya22/leetcode-/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anubhavmaurya22/leetcode-/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anubhavmaurya22/leetcode-/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
