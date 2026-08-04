@@ -13,6 +13,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavmaurya22/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anubhavmaurya22/leetcode-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 ## Stack
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
