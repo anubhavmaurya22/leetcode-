@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/anubhavmaurya22/leetcode-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
