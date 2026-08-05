@@ -71,4 +71,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anubhavmaurya22/leetcode-/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anubhavmaurya22/leetcode-/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/anubhavmaurya22/leetcode-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
