@@ -21,6 +21,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhavmaurya22/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 ## Array
 |  |
 | ------- |
@@ -31,10 +32,12 @@
 | [0018-4sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -87,4 +90,12 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/anubhavmaurya22/leetcode-/tree/master/0933-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
