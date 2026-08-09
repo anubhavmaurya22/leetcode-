@@ -18,6 +18,7 @@
 | [0012-integer-to-roman](https://github.com/anubhavmaurya22/leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -107,4 +109,8 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/anubhavmaurya22/leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
