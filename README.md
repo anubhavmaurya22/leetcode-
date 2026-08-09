@@ -19,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0020-valid-parentheses) |
+| [0520-detect-capital](https://github.com/anubhavmaurya22/leetcode-/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
 | ------- |
