@@ -29,6 +29,7 @@
 | [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
+| [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0012-integer-to-roman](https://github.com/anubhavmaurya22/leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
