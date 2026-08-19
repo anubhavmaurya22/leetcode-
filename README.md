@@ -43,6 +43,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 ## Stack
 |  |
@@ -50,10 +51,12 @@
 | [0020-valid-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 ## Binary Search
 |  |
 | ------- |
