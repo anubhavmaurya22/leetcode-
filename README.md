@@ -45,6 +45,7 @@
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
