@@ -92,6 +92,7 @@
 | [0009-palindrome-number](https://github.com/anubhavmaurya22/leetcode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/anubhavmaurya22/leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/0029-divide-two-integers) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 ## Greedy
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anubhavmaurya22/leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
