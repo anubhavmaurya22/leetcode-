@@ -57,6 +57,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhavmaurya22/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
