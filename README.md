@@ -27,6 +27,7 @@
 | [0022-generate-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/anubhavmaurya22/leetcode-/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@
 | [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 ## Array
