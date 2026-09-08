@@ -234,4 +234,20 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3904-smallest-stable-index-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
