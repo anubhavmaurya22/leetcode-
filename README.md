@@ -31,6 +31,7 @@
 | [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/anubhavmaurya22/leetcode-/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -89,6 +90,7 @@
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
 | ------- |
