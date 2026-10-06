@@ -30,6 +30,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/anubhavmaurya22/leetcode-/tree/master/0520-detect-capital) |
+| [0804-unique-morse-code-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0804-unique-morse-code-words) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -68,6 +69,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
+| [0804-unique-morse-code-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0804-unique-morse-code-words) |
 | [0835-image-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0835-image-overlap) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -199,6 +201,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anubhavmaurya22/leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/anubhavmaurya22/leetcode-/tree/master/0036-valid-sudoku) |
+| [0804-unique-morse-code-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0804-unique-morse-code-words) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
