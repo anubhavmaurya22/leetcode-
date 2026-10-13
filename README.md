@@ -30,6 +30,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/anubhavmaurya22/leetcode-/tree/master/0520-detect-capital) |
+| [0606-construct-string-from-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [0804-unique-morse-code-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0804-unique-morse-code-words) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -289,11 +290,13 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavmaurya22/leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavmaurya22/leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -303,6 +306,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavmaurya22/leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
