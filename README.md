@@ -92,6 +92,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhavmaurya22/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
@@ -164,6 +165,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anubhavmaurya22/leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3886-sum-of-sortable-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anubhavmaurya22/leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |
