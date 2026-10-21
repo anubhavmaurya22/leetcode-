@@ -77,6 +77,7 @@
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 | [0804-unique-morse-code-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0804-unique-morse-code-words) |
 | [0835-image-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0835-image-overlap) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anubhavmaurya22/leetcode-/tree/master/0011-container-with-most-water) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
@@ -178,6 +180,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0018-4sum) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anubhavmaurya22/leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -370,4 +373,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
+## Counting
+|  |
+| ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
