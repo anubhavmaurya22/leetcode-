@@ -157,6 +157,7 @@
 | [0029-divide-two-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/anubhavmaurya22/leetcode-/tree/master/0060-permutation-sequence) |
 | [0836-rectangle-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0836-rectangle-overlap) |
+| [1492-the-kth-factor-of-n](https://github.com/anubhavmaurya22/leetcode-/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhavmaurya22/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -378,4 +379,12 @@
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/anubhavmaurya22/leetcode-/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/anubhavmaurya22/leetcode-/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
