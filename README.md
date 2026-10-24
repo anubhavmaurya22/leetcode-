@@ -39,6 +39,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anubhavmaurya22/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/anubhavmaurya22/leetcode-/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -163,6 +164,7 @@
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhavmaurya22/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavmaurya22/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/anubhavmaurya22/leetcode-/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anubhavmaurya22/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
