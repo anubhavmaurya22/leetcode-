@@ -121,6 +121,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/anubhavmaurya22/leetcode-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -158,6 +159,7 @@
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/anubhavmaurya22/leetcode-/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/anubhavmaurya22/leetcode-/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/anubhavmaurya22/leetcode-/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
@@ -390,4 +392,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/anubhavmaurya22/leetcode-/tree/master/1492-the-kth-factor-of-n) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anubhavmaurya22/leetcode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
