@@ -93,6 +93,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anubhavmaurya22/leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anubhavmaurya22/leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -202,6 +203,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anubhavmaurya22/leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3886-sum-of-sortable-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
@@ -248,6 +250,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhavmaurya22/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bracket Sequences
 |  |
@@ -323,6 +326,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anubhavmaurya22/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/2747-count-zero-request-servers) |
 ## Prefix Sum
 |  |
 | ------- |
