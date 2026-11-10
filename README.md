@@ -107,6 +107,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/anubhavmaurya22/leetcode-/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhavmaurya22/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhavmaurya22/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -187,6 +188,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anubhavmaurya22/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/anubhavmaurya22/leetcode-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
