@@ -62,6 +62,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anubhavmaurya22/leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/anubhavmaurya22/leetcode-/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhavmaurya22/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Array
 |  |
@@ -102,6 +103,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anubhavmaurya22/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/anubhavmaurya22/leetcode-/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhavmaurya22/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
