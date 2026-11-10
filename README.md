@@ -95,6 +95,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anubhavmaurya22/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhavmaurya22/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anubhavmaurya22/leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -297,6 +298,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anubhavmaurya22/leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anubhavmaurya22/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1882-process-tasks-using-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
