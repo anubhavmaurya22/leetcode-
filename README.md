@@ -87,6 +87,7 @@
 | [0835-image-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0835-image-overlap) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavmaurya22/leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
@@ -234,6 +235,7 @@
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavmaurya22/leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/anubhavmaurya22/leetcode-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhavmaurya22/leetcode-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
@@ -351,11 +353,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0606-construct-string-from-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavmaurya22/leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anubhavmaurya22/leetcode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhavmaurya22/leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavmaurya22/leetcode-/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +388,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anubhavmaurya22/leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhavmaurya22/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -409,6 +414,7 @@
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1267-count-servers-that-communicate](https://github.com/anubhavmaurya22/leetcode-/tree/master/1267-count-servers-that-communicate) |
 ## Number Theory
 |  |
 | ------- |
