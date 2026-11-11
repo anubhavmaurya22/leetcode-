@@ -79,6 +79,7 @@
 | [0036-valid-sudoku](https://github.com/anubhavmaurya22/leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -295,6 +296,7 @@
 | [0022-generate-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0040-combination-sum-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
