@@ -50,6 +50,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anubhavmaurya22/leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0940-distinct-subsequences-ii) |
@@ -80,6 +81,7 @@
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anubhavmaurya22/leetcode-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
