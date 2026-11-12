@@ -83,6 +83,7 @@
 | [0040-combination-sum-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anubhavmaurya22/leetcode-/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/anubhavmaurya22/leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -181,6 +182,7 @@
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/anubhavmaurya22/leetcode-/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/anubhavmaurya22/leetcode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anubhavmaurya22/leetcode-/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0836-rectangle-overlap) |
