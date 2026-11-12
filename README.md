@@ -82,6 +82,7 @@
 | [0039-combination-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/anubhavmaurya22/leetcode-/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -303,6 +304,7 @@
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/anubhavmaurya22/leetcode-/tree/master/0046-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
