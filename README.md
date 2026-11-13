@@ -108,6 +108,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anubhavmaurya22/leetcode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anubhavmaurya22/leetcode-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anubhavmaurya22/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/anubhavmaurya22/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anubhavmaurya22/leetcode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -130,6 +131,7 @@
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anubhavmaurya22/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/anubhavmaurya22/leetcode-/tree/master/0933-number-of-recent-calls) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anubhavmaurya22/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anubhavmaurya22/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +355,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/anubhavmaurya22/leetcode-/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anubhavmaurya22/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -396,6 +401,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anubhavmaurya22/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 ## Enumeration
 |  |
@@ -448,4 +454,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anubhavmaurya22/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anubhavmaurya22/leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
