@@ -84,6 +84,7 @@
 | [0040-combination-sum-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anubhavmaurya22/leetcode-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/anubhavmaurya22/leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anubhavmaurya22/leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
@@ -184,6 +185,7 @@
 | [0012-integer-to-roman](https://github.com/anubhavmaurya22/leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhavmaurya22/leetcode-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anubhavmaurya22/leetcode-/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/anubhavmaurya22/leetcode-/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/anubhavmaurya22/leetcode-/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/anubhavmaurya22/leetcode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anubhavmaurya22/leetcode-/tree/master/0069-sqrtx) |
@@ -249,6 +251,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/anubhavmaurya22/leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/anubhavmaurya22/leetcode-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0835-image-overlap) |
