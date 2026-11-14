@@ -31,6 +31,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavmaurya22/leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/anubhavmaurya22/leetcode-/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/anubhavmaurya22/leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anubhavmaurya22/leetcode-/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/anubhavmaurya22/leetcode-/tree/master/0520-detect-capital) |
@@ -85,6 +86,7 @@
 | [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/anubhavmaurya22/leetcode-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/anubhavmaurya22/leetcode-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/anubhavmaurya22/leetcode-/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anubhavmaurya22/leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
@@ -222,6 +224,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/anubhavmaurya22/leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/anubhavmaurya22/leetcode-/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anubhavmaurya22/leetcode-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -273,6 +276,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/anubhavmaurya22/leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/anubhavmaurya22/leetcode-/tree/master/0049-group-anagrams) |
 | [0804-unique-morse-code-words](https://github.com/anubhavmaurya22/leetcode-/tree/master/0804-unique-morse-code-words) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anubhavmaurya22/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
