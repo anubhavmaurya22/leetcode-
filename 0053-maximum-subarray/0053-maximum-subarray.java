@@ -6,7 +6,7 @@ class Solution {
         {
             c+=nums[i];
             m=Math.max(m,c);
-            if(c<1){
+            if(c<0){
                 c=0;
             }
         }
