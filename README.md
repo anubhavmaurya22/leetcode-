@@ -89,6 +89,7 @@
 | [0048-rotate-image](https://github.com/anubhavmaurya22/leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anubhavmaurya22/leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anubhavmaurya22/leetcode-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anubhavmaurya22/leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
@@ -141,6 +142,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/anubhavmaurya22/leetcode-/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0946-validate-stack-sequences) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anubhavmaurya22/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -259,6 +261,7 @@
 | [0036-valid-sudoku](https://github.com/anubhavmaurya22/leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anubhavmaurya22/leetcode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/anubhavmaurya22/leetcode-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0835-image-overlap) |
