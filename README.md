@@ -53,6 +53,7 @@
 | [0010-regular-expression-matching](https://github.com/anubhavmaurya22/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/anubhavmaurya22/leetcode-/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anubhavmaurya22/leetcode-/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/anubhavmaurya22/leetcode-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0940-distinct-subsequences-ii) |
@@ -87,6 +88,7 @@
 | [0046-permutations](https://github.com/anubhavmaurya22/leetcode-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/anubhavmaurya22/leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anubhavmaurya22/leetcode-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/anubhavmaurya22/leetcode-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/anubhavmaurya22/leetcode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anubhavmaurya22/leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/anubhavmaurya22/leetcode-/tree/master/0085-maximal-rectangle) |
@@ -162,6 +164,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/anubhavmaurya22/leetcode-/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/anubhavmaurya22/leetcode-/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhavmaurya22/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
