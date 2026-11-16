@@ -3,7 +3,7 @@ class Solution {
         
         long ans =0;
         long mod =1000000007;
-        int od=0;
+        long od=0;
         int ev=1;
         long sum=0;
         for (int i:arr)
