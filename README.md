@@ -60,6 +60,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/anubhavmaurya22/leetcode-/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhavmaurya22/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavmaurya22/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -103,6 +104,7 @@
 | [1267-count-servers-that-communicate](https://github.com/anubhavmaurya22/leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anubhavmaurya22/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhavmaurya22/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anubhavmaurya22/leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -203,6 +205,7 @@
 | [0836-rectangle-overlap](https://github.com/anubhavmaurya22/leetcode-/tree/master/0836-rectangle-overlap) |
 | [1492-the-kth-factor-of-n](https://github.com/anubhavmaurya22/leetcode-/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/anubhavmaurya22/leetcode-/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/anubhavmaurya22/leetcode-/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhavmaurya22/leetcode-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavmaurya22/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -376,6 +379,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anubhavmaurya22/leetcode-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anubhavmaurya22/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anubhavmaurya22/leetcode-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anubhavmaurya22/leetcode-/tree/master/3364-minimum-positive-sum-subarray) |
